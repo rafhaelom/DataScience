@@ -8,4 +8,4 @@ Repositório criado com a finalidade de versionar, divulgar e praticar meus proj
 ## Projetos Faculdade
 
 ## Projetos Semana_Quarentena_Dados - Alura
-### Aula 01:
+### Aula 01: https://github.com/rafhaelom/DataScience/blob/master/Aula_01_quarentena_dados.ipynb
