@@ -12,5 +12,6 @@ Descrição da imagem: https://github.com/rafhaelom/DataScience/blob/master/desc
 ### Imersão Dados - Alura
 * Aula 01: https://github.com/rafhaelom/DataScience/blob/master/Desafios_Aula01.ipynb
 
-
+### Análise do COVID-19 no Brasil e Estado do Paraná(PR)
+* Relatório desenvolvido em Latex: https://github.com/rafhaelom/DataScience/blob/master/ProjetosFaculdade/Covid19_Brasil_PR/Laboratorio%2004.pdf
 
