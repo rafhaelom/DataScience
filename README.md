@@ -15,3 +15,6 @@ Descrição da imagem: https://github.com/rafhaelom/DataScience/blob/master/desc
 ### Análise do COVID-19 no Brasil e Estado do Paraná(PR)
 * Relatório desenvolvido em Latex: https://github.com/rafhaelom/DataScience/blob/master/ProjetosFaculdade/Covid19_Brasil_PR/Laboratorio%2004.pdf
 
+### Previsão de Preço do Brent Oil - Base do Kaggle
+* Análise Exploratória Inicial: [clique aqui](https://github.com/rafhaelom/DataScience/blob/master/Kaggle/previsaobrentoil.py)
+
