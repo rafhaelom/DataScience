@@ -20,3 +20,16 @@ df["Date"] = pd.to_datetime(df["Date"])
 df
 # %% Verificando distribuição dos preços
 df.describe()
+
+# %% Criando gráfico para visualizar a distribuição de preços por ano
+# Criando gráfico de linhas
+plt.plot(df["Date"], df["Price"])
+# Título
+plt.title("Price per year")
+# Visualizando
+plt.show()
+# %% Criando gráfico de barras
+plt.bar(df["Date"], df["Price"])
+plt.title("Price per year")
+# Visualizando
+plt.show()
