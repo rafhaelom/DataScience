@@ -3,7 +3,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 # %% Importando dados
-df = pd.read_csv("BrentOilPrices.csv", sep=",")
+df = pd.read_csv("dados/BrentOilPrices.csv", sep=",")
 # %% Análise Exploratória
 df.info()
 # %%
