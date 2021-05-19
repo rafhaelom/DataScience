@@ -1,9 +1,9 @@
-# Rafhael de Oliveira Martins
+# Data Science
 Repositório criado com a finalidade de versionar, divulgar e praticar meus projetos de Data Science.
 
 ![](https://github.com/rafhaelom/DataScience/blob/master/data_science.png)
 
-:memo: Descrição da imagem: [confira aqui](https://github.com/rafhaelom/DataScience/blob/master/descricao_imagem_data_science.txt)
+## :memo: Descrição da imagem: [confira aqui](https://github.com/rafhaelom/DataScience/blob/master/descricao_imagem_data_science.txt)
 
 
 ### :notebook: Semana_Quarentena_Dados - Alura
