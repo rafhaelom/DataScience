@@ -21,5 +21,8 @@ Repositório criado com a finalidade de versionar, divulgar e praticar meus proj
 ### :bar_chart: Limpeza para Análise e Modelo de Inadimplência base Lending Club
 * Limpeza para Análise e Modelo: [confira aqui](https://github.com/rafhaelom/DataScience/blob/master/ProjetosFaculdade/Lending_Club/LimpezaAnaliseModelo_rafhael_martins.ipynb)
 
+### :bar_chart: Análise de Múltiplos Arquivos 
+* Análise de múltiplos arquivos e geração de gráficos: [confira aqui](https://github.com/rafhaelom/DataScience/blob/master/ProjetosFaculdade/Multiplos_Arquivos/multiplosArquivos_rafhael_martins.ipynb)
+
 ### :chart_with_upwards_trend: Previsão de Preço do Brent Oil - Base do Kaggle
 * Análise Exploratória Inicial: [confira aqui](https://github.com/rafhaelom/DataScience/blob/master/Kaggle/previsaobrentoil.py)
