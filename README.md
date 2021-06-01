@@ -24,5 +24,8 @@ Repositório criado com a finalidade de versionar, divulgar e praticar meus proj
 ### :bar_chart: Análise de Múltiplos Arquivos 
 * Análise de múltiplos arquivos e geração de gráficos: [confira aqui](https://github.com/rafhaelom/DataScience/blob/master/ProjetosFaculdade/Multiplos_Arquivos/multiplosArquivos_rafhael_martins.ipynb)
 
+### :notebook: SQL e Python
+* Realizando INNER JOIN com SQL e Python, três maneiras de se fazer: [confira_aqui](https://github.com/rafhaelom/DataScience/blob/master/ProjetosFaculdade/Exemplaria_and_Wine/SQL_Analise_Wine_rafhael_martins.ipynb)
+
 ### :chart_with_upwards_trend: Previsão de Preço do Brent Oil - Base do Kaggle
 * Análise Exploratória Inicial: [confira aqui](https://github.com/rafhaelom/DataScience/blob/master/Kaggle/previsaobrentoil.py)
